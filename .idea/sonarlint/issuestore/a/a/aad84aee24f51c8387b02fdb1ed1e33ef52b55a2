@@ -1,0 +1,6 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ıÕß‹8å·ÑâŞ1
+g
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Èñ¾„ıÿÿÿÿ8ë·ÑâŞ1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ãîò¨şÿÿÿÿ8î·ÑâŞ1

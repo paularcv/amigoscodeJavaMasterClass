@@ -1,0 +1,15 @@
+
+n
+java:S2095:"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(µÎ Àúÿÿÿÿ8…üÖŞ1
+{	java:S115G"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ì†İ¨ùÿÿÿÿ8ÚæÓŞ1
+W
+java:S1854<":Remove this useless assignment to local variable "header".(¿û“š8È‚ÖŞ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ÜæÓŞ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ÜæÓŞ1
+]	java:S125*"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ÜæÓŞ1
+H
+java:S1481<"+Remove this unused "header" local variable.(¿û“š8Ê‚ÖŞ1
+L	java:S106>"+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ8ÆÉÔŞ1
+L	java:S106B"+Replace this use of System.err by a logger.(ùÃšëøÿÿÿÿ8ÆÉÔŞ1
+J
+java:S1068G"(Remove this unused "data" private field.(ì†İ¨ùÿÿÿÿ8ŞæÓŞ1

@@ -1,0 +1,15 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›¤ô¼8„¿¢ˆŞ1
+˜
+java:S1130	"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(òá–İıÿÿÿÿ8¿¢ˆŞ1
+]	java:S125"<This block of commented-out lines of code should be removed.(æåî¬ıÿÿÿÿ8¿¢ˆŞ1
+X	java:S125"<This block of commented-out lines of code should be removed.(úÏŞ²8¿¢ˆŞ1
+X	java:S125"<This block of commented-out lines of code should be removed.(‹Éÿ¼8¿¢ˆŞ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ê‹Çé8¿¢ˆŞ1
+X	java:S1250"<This block of commented-out lines of code should be removed.(‹Éÿ¼8¿¢ˆŞ1
+L	java:S106K"+Replace this use of System.out by a logger.(á¿¢Äüÿÿÿÿ8“¿¢ˆŞ1
+L	java:S106N"+Replace this use of System.out by a logger.(Åò¦šşÿÿÿÿ8“¿¢ˆŞ1
+L	java:S106R"+Replace this use of System.out by a logger.(“ßê†üÿÿÿÿ8ÏÔ¤ˆŞ1
+G	java:S106T"+Replace this use of System.out by a logger.(ôñÌ8Â¥ˆŞ1
+I
+java:S1144[",Remove this unused private "isPrime" method.(£áØ´8”¿¢ˆŞ1

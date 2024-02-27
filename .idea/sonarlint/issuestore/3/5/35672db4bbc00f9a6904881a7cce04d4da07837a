@@ -1,0 +1,32 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ‚’íüÿÿÿÿ8¶ µŞ1
+n
+java:S20958"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(µÎ Àúÿÿÿÿ8”¹ µŞ1
+i
+java:S2095+"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ğ­Ï8”¹ µŞ1
+o
+java:S2095‹"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(…¿Å“şÿÿÿÿ8”¹ µŞ1
+W
+java:S18549":Remove this useless assignment to local variable "header".(¿û“š8—¹ µŞ1
+[
+java:S1854R">Remove this useless assignment to local variable "malePerson".(Í•¬ì8—¹ µŞ1
+b
+java:S1854Q"@Remove this useless assignment to local variable "femalePerson".(üÁŸ ûÿÿÿÿ8—¹ µŞ1
+G	java:S106."+Replace this use of System.out by a logger.(¢Õó¸8š¹ µŞ1
+G	java:S1060"+Replace this use of System.err by a logger.(¡÷ıö8›¹ µŞ1
+H
+java:S14819"+Remove this unused "header" local variable.(¿û“š8œ¹ µŞ1
+L	java:S106I"+Replace this use of System.err by a logger.(ùÃšëøÿÿÿÿ8¹ µŞ1
+G	java:S106L"+Replace this use of System.out by a logger.(ÌŠˆ8¹ µŞ1
+S
+java:S1481Q"1Remove this unused "femalePerson" local variable.(üÁŸ ûÿÿÿÿ8¹ µŞ1
+L
+java:S1481R"/Remove this unused "malePerson" local variable.(Í•¬ì8¹ µŞ1
+L	java:S106]"+Replace this use of System.out by a logger.(öŸø¾ıÿÿÿÿ8¹ µŞ1
+L	java:S106l"+Replace this use of System.out by a logger.(òÙŸÑÿÿÿÿÿ8 ¹ µŞ1
+L	java:S106n"+Replace this use of System.out by a logger.(–Ûúÿÿÿÿ8¡¹ µŞ1
+L	java:S106p"+Replace this use of System.out by a logger.(Úåñÿÿÿÿÿ8¡¹ µŞ1
+G	java:S106w"+Replace this use of System.err by a logger.(¯İÂ8¢¹ µŞ1
+L	java:S106"+Replace this use of System.out by a logger.(é¡×Øùÿÿÿÿ8£¹ µŞ1
+M	java:S106”"+Replace this use of System.out by a logger.(É°‚ÿÿÿÿÿ8¥¹ µŞ1
+H	java:S106–"+Replace this use of System.err by a logger.(¡÷ıö8¥¹ µŞ1

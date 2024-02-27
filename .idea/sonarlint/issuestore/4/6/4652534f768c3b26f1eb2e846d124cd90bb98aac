@@ -1,0 +1,20 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(®ı½Õùÿÿÿÿ8ûºœÀÛ1
+L	java:S106"+Replace this use of System.out by a logger.(Û½¯Üÿÿÿÿÿ8üºœÀÛ1
+L	java:S106"+Replace this use of System.out by a logger.(ÎíÌòıÿÿÿÿ8ıºœÀÛ1
+]	java:S125&"<This block of commented-out lines of code should be removed.(Ø¶ùÿÿÿÿ8ıºœÀÛ1
+G	java:S1061"+Replace this use of System.out by a logger.(‘ôºİ8ıºœÀÛ1
+L	java:S1063"+Replace this use of System.out by a logger.(ô›¿Öşÿÿÿÿ8ıºœÀÛ1
+L	java:S1065"+Replace this use of System.out by a logger.(ã”Ùœşÿÿÿÿ8“„ŸÀÛ1
+V
+java:S1144"9Remove this unused private "printSumOfTwoNumbers" method.(†á²8ÿºœÀÛ1
+N
+java:S1144"1Remove this unused private "negateNumber" method.(åå¿È8ÿºœÀÛ1
+S
+java:S1144%"6Remove this unused private "compareTwoNumbers" method.(³÷ôê8ÿºœÀÛ1
+`
+java:S1144/">Remove this unused private "compareTwoNumbersDetailed" method.(‚†Â¦ÿÿÿÿÿ8ÿºœÀÛ1
+W
+java:S1144:":Remove this unused private "capitalizeFirstLetter" method.(££Ç8ÿºœÀÛ1
+]
+java:S1144?"@Remove this unused private "countNumberOfStringsInArray" method.(¨‰¡Ó8ÿºœÀÛ1
